@@ -15,8 +15,6 @@ small experimental indieweb blog
   - associated the production env with my new domain by running `begin domains link`
 
 3. setup ci/cd
-  - add eslint
   - add one smoke test
-  - green commits deploy to staging 
-  - green tags deploy to production
+  - followed these steps for https://begin.com/docs/getting-started/github-actions
 
